@@ -8,6 +8,6 @@ public class WelcomeRestController {
 	
 	@GetMapping("/welcome")
 	public String getWelcomeMsg() {
-		return "welcome to java techniques.....!!!!!!!";
+		return "welcome to java techniques.....Mr.Ram";
 	}
 }
